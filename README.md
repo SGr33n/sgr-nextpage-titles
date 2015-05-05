@@ -1,0 +1,2 @@
+Multipage Plugin for WordPress
+==============================
